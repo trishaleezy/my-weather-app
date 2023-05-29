@@ -1,0 +1,42 @@
+body {
+  margin: 150px 200px 150px 250px;
+}
+h1 {
+  font-size: 45px;
+}
+.current-weather {
+  font-size: 75px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.form-control {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.current-wind {
+  font-size: 20px;
+  margin-top: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.future-weather {
+  font-family: "Courier New", Courier, monospace;
+
+  font-size: 20px;
+  text-align: center;
+  line-height: 40px;
+}
+.fa-cloud,
+.fa-cloud-sun,
+.fa-cloud-showers-heavy,
+.fa-cloud-bolt,
+.fa-sun,
+.fa-cloud-rain {
+  font-size: 75px;
+}
+.units {
+  font-size: 20px;
+}
+.fa-wind {
+  margin-left: 15px;
+}
+.fa-arrows-rotate {
+  margin-left: 15px;
+}
