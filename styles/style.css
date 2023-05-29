@@ -4,6 +4,9 @@ body {
 h1 {
   font-size: 45px;
 }
+h6 {
+  font-size: 12px;
+}
 .current-weather {
   font-size: 75px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
