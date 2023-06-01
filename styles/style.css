@@ -7,8 +7,15 @@ h1 {
 h6 {
   font-size: 12px;
 }
+a {
+  color: #ff96b0;
+}
 .weather-app {
   max-width: 800px;
+  margin: 0 auto;
+  border: 1px solid #7f7f7f;
+  padding: 20px;
+  border-radius: 20px;
 }
 .current-weather {
   font-size: 75px;
