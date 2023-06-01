@@ -7,6 +7,9 @@ h1 {
 h6 {
   font-size: 12px;
 }
+.weather-app {
+  max-width: 800px;
+}
 .current-weather {
   font-size: 75px;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
@@ -25,6 +28,7 @@ h6 {
   font-size: 20px;
   text-align: center;
   line-height: 40px;
+  align-items: left;
 }
 .fa-cloud,
 .fa-cloud-sun,
